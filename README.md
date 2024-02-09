@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I’m a Computer Science student at @University of Padua
+- I’m a Computer Science student at University of Padua
 
 - I love travelling, specially with my motorbike 🏍️
 
