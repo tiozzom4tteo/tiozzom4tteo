@@ -4,7 +4,8 @@
 - I love travelling, specially with my motorbike 🏍️
 
 - I'm currently learning Cyber Security
-  
+
+![tiozzom4tteo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiozzom4tteo&theme=radical&show_icons=true&hide_border=false&layout=compact)
 <!--
 **tiozzomatteostudenti/tiozzomatteostudenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
