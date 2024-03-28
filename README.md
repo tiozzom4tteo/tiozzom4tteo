@@ -7,7 +7,7 @@
 
 ![tiozzom4tteo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiozzom4tteo&theme=radical&show_icons=true&hide_border=false&layout=compact)
 ![tiozzom4tteo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiozzom4tteo&theme=radical&hide_border=false)
-![tiozzom4tteo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiozzom4tteo&theme=radical&hide_border=false)
+![tiozzom4tteo's Stats](https://github-readme-stats.vercel.app/api?username=tiozzom4tteo&theme=radical&show_icons=true&hide_border=false&count_private=true)
 <!--
 **tiozzomatteostudenti/tiozzomatteostudenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
