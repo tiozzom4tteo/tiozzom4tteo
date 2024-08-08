@@ -5,7 +5,8 @@
 
 - I'm currently learning Cyber Security
 
-<!--![tiozzom4tteo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiozzom4tteo&theme=radical&show_icons=true&hide_border=false&layout=compact)<br>-->
+
+![tiozzom4tteo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiozzom4tteo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br>
 <!--
 ![tiozzom4tteo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiozzom4tteo&theme=radical&hide_border=false)<br>
 **tiozzomatteostudenti/tiozzomatteostudenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
