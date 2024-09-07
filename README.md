@@ -3,7 +3,7 @@
 
 - I love travelling, specially with my motorbike 🏍️
 
-- I'm currently learning offensive Cyber Security
+- I'm currently focusing on malware analysis with AI
 
 
 ![tiozzom4tteo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiozzom4tteo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br>
