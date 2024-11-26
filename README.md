@@ -1,23 +1,22 @@
-### Hi there 👋
-- I’m a Computer Science student at University of Padua
+# 👋 About Me
++ 🎓 I'm a Computer Science student at the University of Padua, driven by a passion for technology
 
-- I love travelling, specially with my motorbike 🏍️
++ 🌍 When I'm not diving into new tech knowledge, I love traveling and exploring new places
 
-- I'm currently focusing on malware analysis with AI
++ 🤖 AI & Cybersecurity Enthusiast
 
+# 💻 Tech Stack
+These are all the technologies I have used during projects or university courses. I do not master all of them but I feel confident using these. 
+<hr>
 
-![tiozzom4tteo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiozzom4tteo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br>
-<!--
-**tiozzomatteostudenti/tiozzomatteostudenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows,kali,bash,powershell,py,c,cpp,grafana,php,md,postgres,react,js,html,qt,matlab,neovim,latex,docker,git,github&perline=18)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![tiozzom4tteo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiozzom4tteo&theme=vue&show_icons=true&hide_border=false&layout=compact) 
+
+<!-- # GitHub Stats:
+![tiozzom4tteo's Stats](https://github-readme-stats.vercel.app/api?username=tiozzom4tteo&theme=vue&show_icons=true&hide_border=false&count_private=true) </br>
+![tiozzom4tteo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiozzom4tteo&theme=vue&hide_border=false)
 -->
+
