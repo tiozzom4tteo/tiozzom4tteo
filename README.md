@@ -1,4 +1,10 @@
 # 👋 About Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-tiozzomatteo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matteo-tiozzo-319395286)](www.linkedin.com/in/matteo-tiozzo-319395286)
+[![Instagram Badge](https://img.shields.io/badge/-tiozzo_matteo-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/kanna6501/](https://www.instagram.com/tiozzo_matteo/))]([https://instagram.com/kanna6501](https://www.instagram.com/tiozzo_matteo/))
+[![Gmail Badge](https://img.shields.io/badge/-matteotiozzo.lavoro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matteotiozzo.lavoro@gmail.com)](mailto:matteotiozzo.lavoro@gmail.com)
+
+
 + 🎓 I'm a Computer Science student at the University of Padua, driven by a passion for technology
 
 + 🌍 When I'm not diving into new tech knowledge, I love traveling and exploring new places
