@@ -10,7 +10,7 @@
 
 + 🌍 When I'm not diving into new tech knowledge, I love traveling and exploring new places
 
-+ 🤖 AI & Cybersecurity Enthusiast
++ 🤖 Cybersecurity & AI Enthusiast 
 
 # 💻 Tech Stack
 These are all the technologies I have used during projects or university courses. I do not master all of them but I feel confident using these. 
