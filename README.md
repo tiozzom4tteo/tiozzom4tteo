@@ -14,7 +14,7 @@
 
 # 💻 Tech Stack
 These are all the technologies I have used during projects or university courses. I do not master all of them but I feel confident using these. 
-<hr>
+
 
 [![My Skills](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows,kali,bash,powershell,py,c,cpp,grafana,php,md,postgres,react,js,html,qt,matlab,neovim,latex,docker,git,github,tensorflow,vscode,visualstudio&perline=18)](https://skillicons.dev)
 
