@@ -12,7 +12,7 @@
 
 + 🌍 When I'm not diving into new tech knowledge, I love traveling and exploring new places
 
-+ 🤖 Cybersecurity & AI Enthusiast 
++ 🤖 _**Cybersecurity & AI**_ Enthusiast 
 
 <hr>
 
