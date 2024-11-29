@@ -39,7 +39,7 @@ These are all the technologies I have used during projects or university courses
 
 <hr>
 
-# GitHub Stats
+# 📊 GitHub Stats
 
 ![tiozzom4tteo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiozzom4tteo&theme=vue&show_icons=true&hide_border=false&layout=compact) 
 
