@@ -7,12 +7,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-matteotiozzo.lavoro@gmail.com-4CAF50?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matteotiozzo.lavoro@gmail.com)](mailto:matteotiozzo.lavoro@gmail.com)
 
 
++ 🤖 _**Cybersecurity & AI**_ Enthusiast 
 
-+ 🎓 I'm a Computer Science student at the University of Padua, driven by a passion for technology
-
++ 🎓 Bachelor's degree in Computer Science from the **University of Padua**
+  
 + 🌍 When I'm not diving into new tech knowledge, I love traveling and exploring new places
 
-+ 🤖 _**Cybersecurity & AI**_ Enthusiast 
 
 <hr>
 
