@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-matteotiozzo.lavoro@gmail.com-4CAF50?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matteotiozzo.lavoro@gmail.com)](mailto:matteotiozzo.lavoro@gmail.com)
 
 
-+ 🤖 _**Cybersecurity & AI**_ Enthusiast 
++ 🤖 _**Cyber Security & AI**_ Enthusiast 
 
 + 🎓 Bachelor's degree in Computer Science from the **University of Padua**
   
